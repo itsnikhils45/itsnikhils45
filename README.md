@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Loan Status Prediction**
 
-- 🌱 I’m currently learning **Tableau And PowerBI**
+- 🌱 I’m currently learning **Deep Learning and NLP**
 
 - 📫 How to reach me **shelarnikhil52@gmail.com**
 
